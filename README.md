@@ -18,13 +18,19 @@ The first notebook discusses the use of 1D Convolutional Neural Networks (1D CNN
 
 In the second notebook a 1D-CNN is deepened by a practical example. The example, which will be examined in more detail below as well as the corresponding data sets originate from a competition of the platform Kaggle. Kaggle is an online community of Data Scientists and allows users to find or publish data sets. The platform also allows users to explore or create models in a web-based data science environment, collaborate with other data scientists and engineers, and compete to solve data science challenges. By conducting machine learning competitions, a public data platform, a cloud-based workbench for data science, and a short form of CI education, Klagge offers its users a lot of interesting content in this area.
 
-## Hint
-Please note that the training data sets required to train the model in the second notebook are not available in this repository. However, you can find and download the datasets under the following link:
-https://www.kaggle.com/c/LANL-Earthquake-Prediction/data
+## About me
 
-## Versioning
-* 1.0: Veröffentlichung
+**Piyush Pathak**
 
-## Authors
-   Alea Ilona Sauer – [GitHub Profil](https://github.com/saalea)<br/>
-   Eric Gustav Werner – [GitHub Profil](https://github.com/Gruschtel)
+[**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
+
+[**GITHUB**](https://github.com/piyushpathak03)
+
+[**BLOG**](https://medium.com/@piyushpathak03)
+
+
+# 📫 Follw me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+
+<p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
